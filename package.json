@@ -6,7 +6,9 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "mongodb": "^7.0.0",
+    "mongoose": "^9.1.5"
   },
   "name": "achic-backend",
   "version": "1.0.0",
